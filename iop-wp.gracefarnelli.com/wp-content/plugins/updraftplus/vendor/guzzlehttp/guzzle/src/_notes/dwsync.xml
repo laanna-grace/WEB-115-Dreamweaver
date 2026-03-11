@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="ftps20.us.cloudlogin.co" local="134176605214072476" remote="134164670400000000" Dst="2" />
+<file name="ClientInterface.php" server="ftps20.us.cloudlogin.co" local="134176605215939563" remote="134164670400000000" Dst="2" />
+<file name="HandlerStack.php" server="ftps20.us.cloudlogin.co" local="134176605227669681" remote="134164670400000000" Dst="2" />
+<file name="MessageFormatter.php" server="ftps20.us.cloudlogin.co" local="134176605228586126" remote="134164670400000000" Dst="2" />
+<file name="Middleware.php" server="ftps20.us.cloudlogin.co" local="134176605228976029" remote="134164670400000000" Dst="2" />
+<file name="Pool.php" server="ftps20.us.cloudlogin.co" local="134176605229511381" remote="134164670400000000" Dst="2" />
+<file name="PrepareBodyMiddleware.php" server="ftps20.us.cloudlogin.co" local="134176605230606188" remote="134164670400000000" Dst="2" />
+<file name="RedirectMiddleware.php" server="ftps20.us.cloudlogin.co" local="134176605230671699" remote="134164670400000000" Dst="2" />
+<file name="RequestOptions.php" server="ftps20.us.cloudlogin.co" local="134176605231085602" remote="134164670400000000" Dst="2" />
+<file name="RetryMiddleware.php" server="ftps20.us.cloudlogin.co" local="134176605232178917" remote="134164670400000000" Dst="2" />
+<file name="TransferStats.php" server="ftps20.us.cloudlogin.co" local="134176605232585081" remote="134164670400000000" Dst="2" />
+<file name="UriTemplate.php" server="ftps20.us.cloudlogin.co" local="134176605232931644" remote="134164670400000000" Dst="2" />
+<file name="Utils.php" server="ftps20.us.cloudlogin.co" local="134176605233661311" remote="134164670400000000" Dst="2" />
+<file name="functions.php" server="ftps20.us.cloudlogin.co" local="134176605234895314" remote="134164670400000000" Dst="2" />
+<file name="functions_include.php" server="ftps20.us.cloudlogin.co" local="134176605235247252" remote="134164670400000000" Dst="2" />
+</dwsync>

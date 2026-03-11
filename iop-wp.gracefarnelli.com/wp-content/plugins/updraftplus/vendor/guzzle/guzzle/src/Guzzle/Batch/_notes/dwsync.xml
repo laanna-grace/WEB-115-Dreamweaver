@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBatchDecorator.php" server="ftps20.us.cloudlogin.co" local="134176605044172325" remote="134164670400000000" Dst="2" />
+<file name="Batch.php" server="ftps20.us.cloudlogin.co" local="134176605045544706" remote="134164670400000000" Dst="2" />
+<file name="BatchBuilder.php" server="ftps20.us.cloudlogin.co" local="134176605045554501" remote="134164670400000000" Dst="2" />
+<file name="BatchClosureDivisor.php" server="ftps20.us.cloudlogin.co" local="134176605046011925" remote="134164670400000000" Dst="2" />
+<file name="BatchClosureTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605046845528" remote="134164670400000000" Dst="2" />
+<file name="BatchCommandTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605047382630" remote="134164670400000000" Dst="2" />
+<file name="BatchDivisorInterface.php" server="ftps20.us.cloudlogin.co" local="134176605051420428" remote="134164670400000000" Dst="2" />
+<file name="BatchInterface.php" server="ftps20.us.cloudlogin.co" local="134176605051872478" remote="134164670400000000" Dst="2" />
+<file name="BatchRequestTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605052328299" remote="134164670400000000" Dst="2" />
+<file name="BatchTransferInterface.php" server="ftps20.us.cloudlogin.co" local="134176605053249859" remote="134164670400000000" Dst="2" />
+<file name="BatchSizeDivisor.php" server="ftps20.us.cloudlogin.co" local="134176605053622817" remote="134164670400000000" Dst="2" />
+<file name="FlushingBatch.php" server="ftps20.us.cloudlogin.co" local="134176605055017994" remote="134164670400000000" Dst="2" />
+<file name="ExceptionBufferingBatch.php" server="ftps20.us.cloudlogin.co" local="134176605055028001" remote="134164670400000000" Dst="2" />
+<file name="HistoryBatch.php" server="ftps20.us.cloudlogin.co" local="134176605055337801" remote="134164670400000000" Dst="2" />
+<file name="NotifyingBatch.php" server="ftps20.us.cloudlogin.co" local="134176605056324384" remote="134164670400000000" Dst="2" />
+<file name="composer.json" server="ftps20.us.cloudlogin.co" local="134176605057483039" remote="134164670400000000" Dst="2" />
+</dwsync>

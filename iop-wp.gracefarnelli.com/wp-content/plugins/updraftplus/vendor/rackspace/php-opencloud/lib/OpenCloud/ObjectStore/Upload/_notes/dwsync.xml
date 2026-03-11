@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605420791885" remote="134164670400000000" Dst="2" />
+<file name="ConcurrentTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605421977223" remote="134164670400000000" Dst="2" />
+<file name="ConsecutiveTransfer.php" server="ftps20.us.cloudlogin.co" local="134176605422002396" remote="134164670400000000" Dst="2" />
+<file name="ContainerMigration.php" server="ftps20.us.cloudlogin.co" local="134176605422300795" remote="134164670400000000" Dst="2" />
+<file name="DirectorySync.php" server="ftps20.us.cloudlogin.co" local="134176605423367411" remote="134164670400000000" Dst="2" />
+<file name="TransferBuilder.php" server="ftps20.us.cloudlogin.co" local="134176605423558259" remote="134164670400000000" Dst="2" />
+<file name="TransferPart.php" server="ftps20.us.cloudlogin.co" local="134176605423678684" remote="134164670400000000" Dst="2" />
+<file name="TransferState.php" server="ftps20.us.cloudlogin.co" local="134176605424839076" remote="134164670400000000" Dst="2" />
+</dwsync>

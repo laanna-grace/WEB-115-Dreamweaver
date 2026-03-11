@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="S3.php" server="ftps20.us.cloudlogin.co" local="134176604781754845" remote="134164670400000000" Dst="2" />
+<file name="S3compat.php" server="ftps20.us.cloudlogin.co" local="134176604782237332" remote="134164670400000000" Dst="2" />
+<file name="cacert.pem" server="ftps20.us.cloudlogin.co" local="134176604788903430" remote="134164670400000000" Dst="2" />
+<file name="class-backup-history.php" server="ftps20.us.cloudlogin.co" local="134176604794116747" remote="134164670400000000" Dst="2" />
+<file name="class-commands.php" server="ftps20.us.cloudlogin.co" local="134176604796307247" remote="134164670400000000" Dst="2" />
+<file name="class-filesystem-functions.php" server="ftps20.us.cloudlogin.co" local="134176604796338821" remote="134164670400000000" Dst="2" />
+<file name="class-database-utility.php" server="ftps20.us.cloudlogin.co" local="134176604796424302" remote="134164670400000000" Dst="2" />
+<file name="class-http-error-descriptions.php" server="ftps20.us.cloudlogin.co" local="134176604797638351" remote="134164670400000000" Dst="2" />
+<file name="class-job-scheduler.php" server="ftps20.us.cloudlogin.co" local="134176604797708531" remote="134164670400000000" Dst="2" />
+<file name="class-manipulation-functions.php" server="ftps20.us.cloudlogin.co" local="134176604798433288" remote="134164670400000000" Dst="2" />
+<file name="class-partialfileservlet.php" server="ftps20.us.cloudlogin.co" local="134176604798965664" remote="134164670400000000" Dst="2" />
+<file name="class-remote-send.php" server="ftps20.us.cloudlogin.co" local="134176604799787279" remote="134164670400000000" Dst="2" />
+<file name="class-search-replace.php" server="ftps20.us.cloudlogin.co" local="134176604800289316" remote="134164670400000000" Dst="2" />
+<file name="class-semaphore.php" server="ftps20.us.cloudlogin.co" local="134176604800628787" remote="134164670400000000" Dst="2" />
+<file name="class-updraft-dashboard-news.php" server="ftps20.us.cloudlogin.co" local="134176604801706482" remote="134164670400000000" Dst="2" />
+<file name="class-storage-methods-interface.php" server="ftps20.us.cloudlogin.co" local="134176604801741713" remote="134164670400000000" Dst="2" />
+<file name="class-updraft-semaphore.php" server="ftps20.us.cloudlogin.co" local="134176604802135178" remote="134164670400000000" Dst="2" />
+<file name="class-updraftcentral-updraftplus-commands.php" server="ftps20.us.cloudlogin.co" local="134176604803127240" remote="134164670400000000" Dst="2" />
+<file name="class-updraftplus-encryption.php" server="ftps20.us.cloudlogin.co" local="134176604803404339" remote="134164670400000000" Dst="2" />
+<file name="class-wpadmin-commands.php" server="ftps20.us.cloudlogin.co" local="134176604804020457" remote="134164670400000000" Dst="2" />
+<file name="ftp.class.php" server="ftps20.us.cloudlogin.co" local="134176604807035148" remote="134164670400000000" Dst="2" />
+<file name="get-cpanel-quota-usage.pl" server="ftps20.us.cloudlogin.co" local="134176604808427814" remote="134164670400000000" Dst="2" />
+<file name="class-zip.php" server="ftps20.us.cloudlogin.co" local="134176604809011903" remote="134164670400000000" Dst="2" />
+<file name="google-extensions.php" server="ftps20.us.cloudlogin.co" local="134176604809314194" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.11.4-1-26-1.min.css" server="ftps20.us.cloudlogin.co" local="134176604825241217" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.11.4-1-26-1.min.css.map" server="ftps20.us.cloudlogin.co" local="134176604826062846" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.11.4.css" server="ftps20.us.cloudlogin.co" local="134176604826823103" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.12.1-1-26-1.min.css" server="ftps20.us.cloudlogin.co" local="134176604827447380" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.12.1-1-26-1.min.css.map" server="ftps20.us.cloudlogin.co" local="134176604829182640" remote="134164670400000000" Dst="2" />
+<file name="jquery-ui.custom-v1.12.1.css" server="ftps20.us.cloudlogin.co" local="134176604829192649" remote="134164670400000000" Dst="2" />
+<file name="migrator-lite.php" server="ftps20.us.cloudlogin.co" local="134176604849466166" remote="134164670400000000" Dst="2" />
+<file name="updraft-admin-common-1-26-1.min.js" server="ftps20.us.cloudlogin.co" local="134176604858717161" remote="134164670400000000" Dst="2" />
+<file name="updraft-admin-common.js" server="ftps20.us.cloudlogin.co" local="134176604859385572" remote="134164670400000000" Dst="2" />
+<file name="updraft-restorer-skin-compatibility.php" server="ftps20.us.cloudlogin.co" local="134176604859998158" remote="134164670400000000" Dst="2" />
+<file name="updraft-restorer-skin.php" server="ftps20.us.cloudlogin.co" local="134176604860214170" remote="134164670400000000" Dst="2" />
+<file name="updraftcentral.php" server="ftps20.us.cloudlogin.co" local="134176604860877646" remote="134164670400000000" Dst="2" />
+<file name="updraftplus-clone.php" server="ftps20.us.cloudlogin.co" local="134176604863929337" remote="134164670400000000" Dst="2" />
+<file name="updraftplus-login.php" server="ftps20.us.cloudlogin.co" local="134176604864518933" remote="134164670400000000" Dst="2" />
+<file name="updraftplus-notices.php" server="ftps20.us.cloudlogin.co" local="134176604865197893" remote="134164670400000000" Dst="2" />
+<file name="updraftplus-tour.php" server="ftps20.us.cloudlogin.co" local="134176604865385358" remote="134164670400000000" Dst="2" />
+<file name="updraftvault.php" server="ftps20.us.cloudlogin.co" local="134176604866023734" remote="134164670400000000" Dst="2" />
+</dwsync>

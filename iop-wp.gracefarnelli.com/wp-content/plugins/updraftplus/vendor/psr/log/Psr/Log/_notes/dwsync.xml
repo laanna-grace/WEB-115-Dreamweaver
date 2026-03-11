@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="ftps20.us.cloudlogin.co" local="134176605315239415" remote="134164670400000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="ftps20.us.cloudlogin.co" local="134176605315853634" remote="134164670400000000" Dst="2" />
+<file name="LogLevel.php" server="ftps20.us.cloudlogin.co" local="134176605316830518" remote="134164670400000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="ftps20.us.cloudlogin.co" local="134176605317573610" remote="134164670400000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="ftps20.us.cloudlogin.co" local="134176605317620367" remote="134164670400000000" Dst="2" />
+<file name="LoggerInterface.php" server="ftps20.us.cloudlogin.co" local="134176605318600684" remote="134164670400000000" Dst="2" />
+<file name="LoggerTrait.php" server="ftps20.us.cloudlogin.co" local="134176605319079109" remote="134164670400000000" Dst="2" />
+<file name="NullLogger.php" server="ftps20.us.cloudlogin.co" local="134176605319475126" remote="134164670400000000" Dst="2" />
+</dwsync>

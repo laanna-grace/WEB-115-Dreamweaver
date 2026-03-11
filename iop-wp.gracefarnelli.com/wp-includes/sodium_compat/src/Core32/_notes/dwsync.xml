@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BLAKE2b.php" server="ftps20.us.cloudlogin.co" local="134176607947882231" remote="132663888000000000" Dst="2" />
+<file name="ChaCha20.php" server="ftps20.us.cloudlogin.co" local="134176607949249370" remote="131976144000000000" Dst="2" />
+<file name="Curve25519.php" server="ftps20.us.cloudlogin.co" local="134176607955284432" remote="132925680000000000" Dst="2" />
+<file name="HChaCha20.php" server="ftps20.us.cloudlogin.co" local="134176607955354570" remote="131976144000000000" Dst="2" />
+<file name="Ed25519.php" server="ftps20.us.cloudlogin.co" local="134176607956215900" remote="133076016000000000" Dst="2" />
+<file name="HSalsa20.php" server="ftps20.us.cloudlogin.co" local="134176607956556018" remote="131976144000000000" Dst="2" />
+<file name="Int32.php" server="ftps20.us.cloudlogin.co" local="134176607957416250" remote="132925680000000000" Dst="2" />
+<file name="Int64.php" server="ftps20.us.cloudlogin.co" local="134176607958258599" remote="132925680000000000" Dst="2" />
+<file name="Poly1305.php" server="ftps20.us.cloudlogin.co" local="134176607959128271" remote="131976144000000000" Dst="2" />
+<file name="Salsa20.php" server="ftps20.us.cloudlogin.co" local="134176607959564677" remote="131976144000000000" Dst="2" />
+<file name="SipHash.php" server="ftps20.us.cloudlogin.co" local="134176607960792275" remote="131976144000000000" Dst="2" />
+<file name="Util.php" server="ftps20.us.cloudlogin.co" local="134176607961211015" remote="131976144000000000" Dst="2" />
+<file name="X25519.php" server="ftps20.us.cloudlogin.co" local="134176607962074357" remote="132203340000000000" Dst="2" />
+<file name="XChaCha20.php" server="ftps20.us.cloudlogin.co" local="134176607962484425" remote="132925680000000000" Dst="2" />
+<file name="XSalsa20.php" server="ftps20.us.cloudlogin.co" local="134176607962879562" remote="131976144000000000" Dst="2" />
+</dwsync>

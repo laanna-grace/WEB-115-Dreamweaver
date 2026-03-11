@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CacheKeyProviderInterface.php" server="ftps20.us.cloudlogin.co" local="134176605134485799" remote="134164670400000000" Dst="2" />
+<file name="CachePlugin.php" server="ftps20.us.cloudlogin.co" local="134176605135874286" remote="134164670400000000" Dst="2" />
+<file name="CacheStorageInterface.php" server="ftps20.us.cloudlogin.co" local="134176605137166772" remote="134164670400000000" Dst="2" />
+<file name="CallbackCanCacheStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605138510242" remote="134164670400000000" Dst="2" />
+<file name="DefaultCacheKeyProvider.php" server="ftps20.us.cloudlogin.co" local="134176605139830148" remote="134164670400000000" Dst="2" />
+<file name="DefaultCacheStorage.php" server="ftps20.us.cloudlogin.co" local="134176605141165399" remote="134164670400000000" Dst="2" />
+<file name="DefaultCanCacheStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605142274408" remote="134164670400000000" Dst="2" />
+<file name="CanCacheStrategyInterface.php" server="ftps20.us.cloudlogin.co" local="134176605142858125" remote="134164670400000000" Dst="2" />
+<file name="DefaultRevalidation.php" server="ftps20.us.cloudlogin.co" local="134176605143405832" remote="134164670400000000" Dst="2" />
+<file name="DenyRevalidation.php" server="ftps20.us.cloudlogin.co" local="134176605145260075" remote="134164670400000000" Dst="2" />
+<file name="RevalidationInterface.php" server="ftps20.us.cloudlogin.co" local="134176605145269991" remote="134164670400000000" Dst="2" />
+<file name="SkipRevalidation.php" server="ftps20.us.cloudlogin.co" local="134176605145702238" remote="134164670400000000" Dst="2" />
+<file name="composer.json" server="ftps20.us.cloudlogin.co" local="134176605147367232" remote="134164670400000000" Dst="2" />
+</dwsync>

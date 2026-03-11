@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractEntityBodyDecorator.php" server="ftps20.us.cloudlogin.co" local="134176605070068878" remote="134164670400000000" Dst="2" />
+<file name="CachingEntityBody.php" server="ftps20.us.cloudlogin.co" local="134176605070145431" remote="134164670400000000" Dst="2" />
+<file name="ClientInterface.php" server="ftps20.us.cloudlogin.co" local="134176605071460487" remote="134164670400000000" Dst="2" />
+<file name="Client.php" server="ftps20.us.cloudlogin.co" local="134176605071808514" remote="134164670400000000" Dst="2" />
+<file name="EntityBody.php" server="ftps20.us.cloudlogin.co" local="134176605075540802" remote="134164670400000000" Dst="2" />
+<file name="EntityBodyInterface.php" server="ftps20.us.cloudlogin.co" local="134176605076420156" remote="134164670400000000" Dst="2" />
+<file name="IoEmittingEntityBody.php" server="ftps20.us.cloudlogin.co" local="134176605082435642" remote="134164670400000000" Dst="2" />
+<file name="Mimetypes.php" server="ftps20.us.cloudlogin.co" local="134176605093205428" remote="134164670400000000" Dst="2" />
+<file name="QueryString.php" server="ftps20.us.cloudlogin.co" local="134176605095283691" remote="134164670400000000" Dst="2" />
+<file name="ReadLimitEntityBody.php" server="ftps20.us.cloudlogin.co" local="134176605095985866" remote="134164670400000000" Dst="2" />
+<file name="RedirectPlugin.php" server="ftps20.us.cloudlogin.co" local="134176605096112421" remote="134164670400000000" Dst="2" />
+<file name="StaticClient.php" server="ftps20.us.cloudlogin.co" local="134176605097281923" remote="134164670400000000" Dst="2" />
+<file name="Url.php" server="ftps20.us.cloudlogin.co" local="134176605097775804" remote="134164670400000000" Dst="2" />
+<file name="composer.json" server="ftps20.us.cloudlogin.co" local="134176605099798845" remote="134164670400000000" Dst="2" />
+</dwsync>

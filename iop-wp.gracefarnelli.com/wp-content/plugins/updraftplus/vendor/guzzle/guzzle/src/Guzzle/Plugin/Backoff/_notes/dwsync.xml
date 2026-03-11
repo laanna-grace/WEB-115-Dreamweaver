@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605123684968" remote="134164670400000000" Dst="2" />
+<file name="AbstractErrorCodeBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605124559837" remote="134164670400000000" Dst="2" />
+<file name="BackoffLogger.php" server="ftps20.us.cloudlogin.co" local="134176605125154276" remote="134164670400000000" Dst="2" />
+<file name="BackoffPlugin.php" server="ftps20.us.cloudlogin.co" local="134176605126114189" remote="134164670400000000" Dst="2" />
+<file name="BackoffStrategyInterface.php" server="ftps20.us.cloudlogin.co" local="134176605126616618" remote="134164670400000000" Dst="2" />
+<file name="CallbackBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605127084572" remote="134164670400000000" Dst="2" />
+<file name="CurlBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605128835924" remote="134164670400000000" Dst="2" />
+<file name="ConstantBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605128951283" remote="134164670400000000" Dst="2" />
+<file name="ExponentialBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605129408300" remote="134164670400000000" Dst="2" />
+<file name="HttpBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605130490599" remote="134164670400000000" Dst="2" />
+<file name="LinearBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605131095303" remote="134164670400000000" Dst="2" />
+<file name="ReasonPhraseBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605131784495" remote="134164670400000000" Dst="2" />
+<file name="TruncatedBackoffStrategy.php" server="ftps20.us.cloudlogin.co" local="134176605133142895" remote="134164670400000000" Dst="2" />
+<file name="composer.json" server="ftps20.us.cloudlogin.co" local="134176605135160043" remote="134164670400000000" Dst="2" />
+</dwsync>
