@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Catalog.php" server="ftps20.us.cloudlogin.co" local="134176605403232292" remote="134164670400000000" Dst="2" />
-<file name="AbstractService.php" server="ftps20.us.cloudlogin.co" local="134176605403262349" remote="134164670400000000" Dst="2" />
-<file name="CatalogItem.php" server="ftps20.us.cloudlogin.co" local="134176605404268372" remote="134164670400000000" Dst="2" />
-<file name="CatalogService.php" server="ftps20.us.cloudlogin.co" local="134176605404710756" remote="134164670400000000" Dst="2" />
-<file name="Endpoint.php" server="ftps20.us.cloudlogin.co" local="134176605404891763" remote="134164670400000000" Dst="2" />
-<file name="NovaService.php" server="ftps20.us.cloudlogin.co" local="134176605405848397" remote="134164670400000000" Dst="2" />
-<file name="ServiceBuilder.php" server="ftps20.us.cloudlogin.co" local="134176605406190034" remote="134164670400000000" Dst="2" />
-<file name="ServiceInterface.php" server="ftps20.us.cloudlogin.co" local="134176605406644798" remote="134164670400000000" Dst="2" />
+<file name="AbstractService.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="Catalog.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="CatalogItem.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="CatalogService.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="Endpoint.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="NovaService.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="ServiceBuilder.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
+<file name="ServiceInterface.php" server="ftps20.us.cloudlogin.co" local="134176786200000000" remote="134176786200000000" Dst="2" />
 </dwsync>

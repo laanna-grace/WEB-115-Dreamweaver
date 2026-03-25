@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'tu-generate-responsive-variables'.
-        on line 14 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss, in `tu-generate-responsive-variables'
-        from line 14 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss
+        on line 14 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss, in `tu-generate-responsive-variables'
+        from line 14 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss
 
 9: 		"mobile": "bu-6",
 10: 		"desktop": "bu-6"
@@ -16,8 +16,8 @@ Error: Undefined mixin 'tu-generate-responsive-variables'.
 19: 	font-weight: 400;
 
 Backtrace:
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss:14:in `tu-generate-responsive-variables'
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss:14
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss:14:in `tu-generate-responsive-variables'
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss:14
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:348:in 'block in Sass::Tree::Visitors::Perform#visit_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:98:in 'block in Sass::Stack#with_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in 'Sass::Stack#with_frame'
@@ -54,4 +54,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:36:in '<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 14 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss, in `tu-generate-responsive-variables'\A         from line 14 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss\A \A 9: 		\"mobile\": \"bu-6\",\A 10: 		\"desktop\": \"bu-6\"\A 11: 	),\A 12: );\A 13: \A 14: @include tu-generate-responsive-variables(\"tu\", $theme-global-variables);\A 15: \A 16: @font-face {\A 17: 	font-family: \"Inter\";\A 18: 	font-style: normal;\A 19: 	font-weight: 400;"; }
+  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 14 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss, in `tu-generate-responsive-variables'\A         from line 14 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\theme.scss\A \A 9: 		\"mobile\": \"bu-6\",\A 10: 		\"desktop\": \"bu-6\"\A 11: 	),\A 12: );\A 13: \A 14: @include tu-generate-responsive-variables(\"tu\", $theme-global-variables);\A 15: \A 16: @font-face {\A 17: 	font-family: \"Inter\";\A 18: 	font-style: normal;\A 19: 	font-weight: 400;"; }

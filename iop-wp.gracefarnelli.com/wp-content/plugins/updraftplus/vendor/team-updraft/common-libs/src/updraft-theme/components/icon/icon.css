@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'tu-generate-responsive-variables'.
-        on line 26 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss, in `tu-generate-responsive-variables'
-        from line 26 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss
+        on line 26 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss, in `tu-generate-responsive-variables'
+        from line 26 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss
 
 21: 		"mobile": "bu-16",
 22: 		"desktop": "bu-16"
@@ -16,8 +16,8 @@ Error: Undefined mixin 'tu-generate-responsive-variables'.
 31: 	flex-direction: row;
 
 Backtrace:
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss:26:in `tu-generate-responsive-variables'
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss:26
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss:26:in `tu-generate-responsive-variables'
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss:26
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:348:in 'block in Sass::Tree::Visitors::Perform#visit_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:98:in 'block in Sass::Stack#with_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in 'Sass::Stack#with_frame'
@@ -54,4 +54,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:36:in '<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 26 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss, in `tu-generate-responsive-variables'\A         from line 26 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss\A \A 21: 		\"mobile\": \"bu-16\",\A 22: 		\"desktop\": \"bu-16\"\A 23: 	),\A 24: );\A 25: \A 26: @include tu-generate-responsive-variables(\"tu-icon\", $icon-variables);\A 27: \A 28: \A 29: tu-icon {\A 30: 	display: flex;\A 31: 	flex-direction: row;"; }
+  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 26 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss, in `tu-generate-responsive-variables'\A         from line 26 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\icon\icon.scss\A \A 21: 		\"mobile\": \"bu-16\",\A 22: 		\"desktop\": \"bu-16\"\A 23: 	),\A 24: );\A 25: \A 26: @include tu-generate-responsive-variables(\"tu-icon\", $icon-variables);\A 27: \A 28: \A 29: tu-icon {\A 30: 	display: flex;\A 31: 	flex-direction: row;"; }

@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'tu-generate-responsive-variables'.
-        on line 99 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss, in `tu-generate-responsive-variables'
-        from line 99 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss
+        on line 99 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss, in `tu-generate-responsive-variables'
+        from line 99 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss
 
 94: 		"mobile": "bu-4",
 95: 		"desktop": "bu-4"
@@ -16,8 +16,8 @@ Error: Undefined mixin 'tu-generate-responsive-variables'.
 104: 	button {
 
 Backtrace:
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss:99:in `tu-generate-responsive-variables'
-C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss:99
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss:99:in `tu-generate-responsive-variables'
+C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss:99
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:348:in 'block in Sass::Tree::Visitors::Perform#visit_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:98:in 'block in Sass::Stack#with_mixin'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.4.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in 'Sass::Stack#with_frame'
@@ -54,4 +54,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:36:in '<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 99 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss, in `tu-generate-responsive-variables'\A         from line 99 of C:\Users\farne\OneDrive\Documents\Project Site\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss\A \A 94: 		\"mobile\": \"bu-4\",\A 95: 		\"desktop\": \"bu-4\"\A 96: 	),\A 97: );\A 98: \A 99: @include tu-generate-responsive-variables(\"tu-button\", $button-variables);\A 100: \A 101: tu-button {\A 102: 	display: contents;\A 103: \A 104: 	button {"; }
+  content: "Error: Undefined mixin 'tu-generate-responsive-variables'.\A         on line 99 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss, in `tu-generate-responsive-variables'\A         from line 99 of C:\Users\farne\OneDrive\Documents\WEB-115-Dreamweaver\iop-wp.gracefarnelli.com\wp-content\plugins\updraftplus\vendor\team-updraft\common-libs\src\updraft-theme\components\button\button.scss\A \A 94: 		\"mobile\": \"bu-4\",\A 95: 		\"desktop\": \"bu-4\"\A 96: 	),\A 97: );\A 98: \A 99: @include tu-generate-responsive-variables(\"tu-button\", $button-variables);\A 100: \A 101: tu-button {\A 102: 	display: contents;\A 103: \A 104: 	button {"; }
