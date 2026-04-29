@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-rest-abilities-v1-categories-controller.php" server="ftps20.us.cloudlogin.co" local="134055792000000000" remote="134055792000000000" Dst="2" />
+<file name="class-wp-rest-abilities-v1-list-controller.php" server="ftps20.us.cloudlogin.co" local="134078614800000000" remote="134078614800000000" Dst="2" />
+<file name="class-wp-rest-abilities-v1-run-controller.php" server="ftps20.us.cloudlogin.co" local="134055792000000000" remote="134055792000000000" Dst="2" />
+<file name="class-wp-rest-application-passwords-controller.php" server="ftps20.us.cloudlogin.co" local="133959024000000000" remote="133959024000000000" Dst="2" />
+<file name="class-wp-rest-attachments-controller.php" server="ftps20.us.cloudlogin.co" local="134059248000000000" remote="134059248000000000" Dst="2" />
+<file name="class-wp-rest-autosaves-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-block-directory-controller.php" server="ftps20.us.cloudlogin.co" local="133781868000000000" remote="133781868000000000" Dst="2" />
+<file name="class-wp-rest-block-pattern-categories-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-block-patterns-controller.php" server="ftps20.us.cloudlogin.co" local="133627248000000000" remote="133627248000000000" Dst="2" />
+<file name="class-wp-rest-block-renderer-controller.php" server="ftps20.us.cloudlogin.co" local="132694992000000000" remote="132694992000000000" Dst="2" />
+<file name="class-wp-rest-block-types-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-blocks-controller.php" server="ftps20.us.cloudlogin.co" local="133431984000000000" remote="133431984000000000" Dst="2" />
+<file name="class-wp-rest-comments-controller.php" server="ftps20.us.cloudlogin.co" local="134182812600000000" remote="134182812600000000" Dst="2" />
+<file name="class-wp-rest-controller.php" server="ftps20.us.cloudlogin.co" local="133927056000000000" remote="133927056000000000" Dst="2" />
+<file name="class-wp-rest-edit-site-export-controller.php" server="ftps20.us.cloudlogin.co" local="133855308000000000" remote="133855308000000000" Dst="2" />
+<file name="class-wp-rest-font-collections-controller.php" server="ftps20.us.cloudlogin.co" local="133984080000000000" remote="133984080000000000" Dst="2" />
+<file name="class-wp-rest-font-faces-controller.php" server="ftps20.us.cloudlogin.co" local="133620336000000000" remote="133620336000000000" Dst="2" />
+<file name="class-wp-rest-font-families-controller.php" server="ftps20.us.cloudlogin.co" local="133619472000000000" remote="133619472000000000" Dst="2" />
+<file name="class-wp-rest-global-styles-controller.php" server="ftps20.us.cloudlogin.co" local="133954704000000000" remote="133954704000000000" Dst="2" />
+<file name="class-wp-rest-global-styles-revisions-controller.php" server="ftps20.us.cloudlogin.co" local="134054928000000000" remote="134054928000000000" Dst="2" />
+<file name="class-wp-rest-menu-items-controller.php" server="ftps20.us.cloudlogin.co" local="133893360000000000" remote="133893360000000000" Dst="2" />
+<file name="class-wp-rest-menu-locations-controller.php" server="ftps20.us.cloudlogin.co" local="133825068000000000" remote="133825068000000000" Dst="2" />
+<file name="class-wp-rest-menus-controller.php" server="ftps20.us.cloudlogin.co" local="133825068000000000" remote="133825068000000000" Dst="2" />
+<file name="class-wp-rest-navigation-fallback-controller.php" server="ftps20.us.cloudlogin.co" local="133419024000000000" remote="133419024000000000" Dst="2" />
+<file name="class-wp-rest-pattern-directory-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-plugins-controller.php" server="ftps20.us.cloudlogin.co" local="133710192000000000" remote="133710192000000000" Dst="2" />
+<file name="class-wp-rest-post-statuses-controller.php" server="ftps20.us.cloudlogin.co" local="133649712000000000" remote="133649712000000000" Dst="2" />
+<file name="class-wp-rest-post-types-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-posts-controller.php" server="ftps20.us.cloudlogin.co" local="134054928000000000" remote="134054928000000000" Dst="2" />
+<file name="class-wp-rest-revisions-controller.php" server="ftps20.us.cloudlogin.co" local="134054928000000000" remote="134054928000000000" Dst="2" />
+<file name="class-wp-rest-search-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-settings-controller.php" server="ftps20.us.cloudlogin.co" local="134090857800000000" remote="134090857800000000" Dst="2" />
+<file name="class-wp-rest-sidebars-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-site-health-controller.php" server="ftps20.us.cloudlogin.co" local="133389648000000000" remote="133389648000000000" Dst="2" />
+<file name="class-wp-rest-taxonomies-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-template-autosaves-controller.php" server="ftps20.us.cloudlogin.co" local="133853580000000000" remote="133853580000000000" Dst="2" />
+<file name="class-wp-rest-template-revisions-controller.php" server="ftps20.us.cloudlogin.co" local="133853580000000000" remote="133853580000000000" Dst="2" />
+<file name="class-wp-rest-templates-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-terms-controller.php" server="ftps20.us.cloudlogin.co" local="134036784000000000" remote="134036784000000000" Dst="2" />
+<file name="class-wp-rest-themes-controller.php" server="ftps20.us.cloudlogin.co" local="134054064000000000" remote="134054064000000000" Dst="2" />
+<file name="class-wp-rest-url-details-controller.php" server="ftps20.us.cloudlogin.co" local="133651440000000000" remote="133651440000000000" Dst="2" />
+<file name="class-wp-rest-users-controller.php" server="ftps20.us.cloudlogin.co" local="134054928000000000" remote="134054928000000000" Dst="2" />
+<file name="class-wp-rest-widget-types-controller.php" server="ftps20.us.cloudlogin.co" local="133861392000000000" remote="133861392000000000" Dst="2" />
+<file name="class-wp-rest-widgets-controller.php" server="ftps20.us.cloudlogin.co" local="133867440000000000" remote="133867440000000000" Dst="2" />
+</dwsync>
