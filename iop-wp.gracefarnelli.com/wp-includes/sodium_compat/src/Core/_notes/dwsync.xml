@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AEGIS128L.php" server="ftps20.us.cloudlogin.co" local="133657488000000000" remote="133657488000000000" Dst="2" />
+<file name="AEGIS256.php" server="ftps20.us.cloudlogin.co" local="133657488000000000" remote="133657488000000000" Dst="2" />
+<file name="AES.php" server="ftps20.us.cloudlogin.co" local="133657488000000000" remote="133657488000000000" Dst="2" />
+<file name="BLAKE2b.php" server="ftps20.us.cloudlogin.co" local="132925680000000000" remote="132925680000000000" Dst="2" />
+<file name="ChaCha20.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="Curve25519.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="Ed25519.php" server="ftps20.us.cloudlogin.co" local="134139523800000000" remote="134139523800000000" Dst="2" />
+<file name="HChaCha20.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="HSalsa20.php" server="ftps20.us.cloudlogin.co" local="131976144000000000" remote="131976144000000000" Dst="2" />
+<file name="Poly1305.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="Ristretto255.php" server="ftps20.us.cloudlogin.co" local="132663888000000000" remote="132663888000000000" Dst="2" />
+<file name="Salsa20.php" server="ftps20.us.cloudlogin.co" local="131976144000000000" remote="131976144000000000" Dst="2" />
+<file name="SipHash.php" server="ftps20.us.cloudlogin.co" local="132663888000000000" remote="132663888000000000" Dst="2" />
+<file name="Util.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="X25519.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="XChaCha20.php" server="ftps20.us.cloudlogin.co" local="134041968000000000" remote="134041968000000000" Dst="2" />
+<file name="XSalsa20.php" server="ftps20.us.cloudlogin.co" local="131976144000000000" remote="131976144000000000" Dst="2" />
+</dwsync>
