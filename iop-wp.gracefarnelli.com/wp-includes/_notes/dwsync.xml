@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="abilities-api.php" server="ftps20.us.cloudlogin.co" local="134067584400000000" remote="134067584400000000" Dst="2" />
+<file name="abilities.php" server="ftps20.us.cloudlogin.co" local="134078614800000000" remote="134078614800000000" Dst="2" />
+<file name="admin-bar.php" server="ftps20.us.cloudlogin.co" local="134038512000000000" remote="134038512000000000" Dst="2" />
+<file name="atomlib.php" server="ftps20.us.cloudlogin.co" local="134013456000000000" remote="134013456000000000" Dst="2" />
+<file name="author-template.php" server="ftps20.us.cloudlogin.co" local="134057520000000000" remote="134057520000000000" Dst="2" />
+<file name="block-bindings.php" server="ftps20.us.cloudlogin.co" local="134054064000000000" remote="134054064000000000" Dst="2" />
+<file name="block-editor.php" server="ftps20.us.cloudlogin.co" local="134035920000000000" remote="134035920000000000" Dst="2" />
+<file name="block-i18n.json" server="ftps20.us.cloudlogin.co" local="132731280000000000" remote="132731280000000000" Dst="2" />
+<file name="block-patterns.php" server="ftps20.us.cloudlogin.co" local="133773228000000000" remote="133773228000000000" Dst="2" />
+<file name="block-template-utils.php" server="ftps20.us.cloudlogin.co" local="134070037200000000" remote="134070037200000000" Dst="2" />
+<file name="block-template.php" server="ftps20.us.cloudlogin.co" local="134070037200000000" remote="134070037200000000" Dst="2" />
+<file name="blocks.php" server="ftps20.us.cloudlogin.co" local="134054928000000000" remote="134054928000000000" Dst="2" />
+<file name="bookmark-template.php" server="ftps20.us.cloudlogin.co" local="133868304000000000" remote="133868304000000000" Dst="2" />
+<file name="bookmark.php" server="ftps20.us.cloudlogin.co" local="133556400000000000" remote="133556400000000000" Dst="2" />
+<file name="cache-compat.php" server="ftps20.us.cloudlogin.co" local="134010864000000000" remote="134010864000000000" Dst="2" />
+<file name="cache.php" server="ftps20.us.cloudlogin.co" local="133903728000000000" remote="133903728000000000" Dst="2" />
+<file name="canonical.php" server="ftps20.us.cloudlogin.co" local="134067654600000000" remote="134067654600000000" Dst="2" />
+<file name="capabilities.php" server="ftps20.us.cloudlogin.co" local="134103223800000000" remote="134103223800000000" Dst="2" />
+<file name="category-template.php" server="ftps20.us.cloudlogin.co" local="133933968000000000" remote="133933968000000000" Dst="2" />
+<file name="category.php" server="ftps20.us.cloudlogin.co" local="133821612000000000" remote="133821612000000000" Dst="2" />
+<file name="class-avif-info.php" server="ftps20.us.cloudlogin.co" local="133585776000000000" remote="133585776000000000" Dst="2" />
+<file name="class-feed.php" server="ftps20.us.cloudlogin.co" local="133721424000000000" remote="133721424000000000" Dst="2" />
+<file name="class-http.php" server="ftps20.us.cloudlogin.co" local="132999120000000000" remote="132999120000000000" Dst="2" />
+<file name="class-IXR.php" server="ftps20.us.cloudlogin.co" local="133819884000000000" remote="133819884000000000" Dst="2" />
+<file name="class-json.php" server="ftps20.us.cloudlogin.co" local="134005680000000000" remote="134005680000000000" Dst="2" />
+<file name="class-oembed.php" server="ftps20.us.cloudlogin.co" local="132999120000000000" remote="132999120000000000" Dst="2" />
+<file name="class-phpass.php" server="ftps20.us.cloudlogin.co" local="133710192000000000" remote="133710192000000000" Dst="2" />
+<file name="class-phpmailer.php" server="ftps20.us.cloudlogin.co" local="132397776000000000" remote="132397776000000000" Dst="2" />
+<file name="class-pop3.php" server="ftps20.us.cloudlogin.co" local="133743024000000000" remote="133743024000000000" Dst="2" />
+<file name="class-requests.php" server="ftps20.us.cloudlogin.co" local="133251408000000000" remote="133251408000000000" Dst="2" />
+<file name="class-simplepie.php" server="ftps20.us.cloudlogin.co" local="133721424000000000" remote="133721424000000000" Dst="2" />
+<file name="class-smtp.php" server="ftps20.us.cloudlogin.co" local="132561036000000000" remote="132561036000000000" Dst="2" />
+<file name="class-snoopy.php" server="ftps20.us.cloudlogin.co" local="133198668000000000" remote="133198668000000000" Dst="2" />
+<file name="class-walker-category-dropdown.php" server="ftps20.us.cloudlogin.co" local="133391376000000000" remote="133391376000000000" Dst="2" />
+<file name="class-walker-category.php" server="ftps20.us.cloudlogin.co" local="133386192000000000" remote="133386192000000000" Dst="2" />
+<file name="class-walker-comment.php" server="ftps20.us.cloudlogin.co" local="133552080000000000" remote="133552080000000000" Dst="2" />
+<file name="class-walker-nav-menu.php" server="ftps20.us.cloudlogin.co" local="133819020000000000" remote="133819020000000000" Dst="2" />
+<file name="class-walker-page-dropdown.php" server="ftps20.us.cloudlogin.co" local="133391376000000000" remote="133391376000000000" Dst="2" />
+<file name="class-walker-page.php" server="ftps20.us.cloudlogin.co" local="133391376000000000" remote="133391376000000000" Dst="2" />
+<file name="class-wp-admin-bar.php" server="ftps20.us.cloudlogin.co" local="133657488000000000" remote="133657488000000000" Dst="2" />
+<file name="class-wp-ajax-response.php" server="ftps20.us.cloudlogin.co" local="133074288000000000" remote="133074288000000000" Dst="2" />
+</dwsync>
